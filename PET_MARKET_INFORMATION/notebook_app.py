@@ -235,12 +235,7 @@ if __name__ == "__main__":
     main()
 
 
-# %%
-def print_messages():
-    print("Hello Viewers")
-    print("Like & Subscribe")
 
-print_messages()
 
 
 
