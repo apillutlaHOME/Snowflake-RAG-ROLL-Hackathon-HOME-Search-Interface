@@ -3,10 +3,6 @@
 import streamlit as st
 import pandas as pd
 
-
-   
-
-# We can also use Snowpark for our analyses!
 from snowflake.snowpark.context import get_active_session
 session = get_active_session()
 
